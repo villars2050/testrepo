@@ -1,0 +1,115 @@
+Total 21,731,040  KB
+
+Admin,,1059518 => 918149
+**Comms
+HR
+**Logistics / IT
+
+Affiliates,,2600365
+Nigeria 209M
+Tanzania 154M
+Togo 136M
+Mozambique 134M
+**Senegal 106
+**Malawi 102M
+**Mali 92
+Zambia 92M
+Ghana 88M
+Rwanda 85M
+Kenya 76M
+
+Calendar,,213112
+
+Capital,,4859059
+Blu,664M
+Blu/ESA,151M
+Blu/Structuring,71M
+Blu/Valuaion&Financials,108M
+BlueStar/DataRoom, 132M
+BlueStar/Phase 1 Work, 513M
+BlueStar/RFP, 101M
+Capital/Group 552M
+Group/2020 12, 100M
+Group/ARchive/2019 12, 84M
+Group/ARchive/2020 06, 74M
+Reports, 173M
+Sapphire, 1885M
+Sapphire/Docs/IP, 276M
+**Sapphire/Docs/Prospectus, 272M
+Sapphire/Investors,211M
+Sapphire/Investors/FMO,132M
+Sapphire/KYC, 76M
+**Sapphire/Sustainable, 489M
+UEMOA B2/3, 540M
+Vega 107M
+
+Committees,,919330
+BLC,128M
+Board,546M
+GALCO,129M
+
+Compliance & Regs,,580428
+BCEAO supervision,477M
+BCEAO supervision\liquidity QIS,128M
+
+Frameworks,,718763
+Cap Management,64M
+CoE,162M
+Pillar 2,124M
+RRP,83M
+Tax_TP_GSSA,118M
+
+Funding,,7559650
+DCM/JPM,97M
+DCM/Mashreq,92M
+ETI liquidity,513M
+ETI liquidity\placements,79M
+Indigo,1543M
+Indigo/Appointments, 170M
+Indigo/DD,366M
+Indigo/DD/Finance,125M
+**Indigo/Docs/IP,225M
+**Indigo/Docs,prospectus/279M
+Indigo/Docs/Transaction?,115M
+Indigo/Worskareams/Auditors,60M
+Indigo/Workstreams/Roadshow,52M
+Investors,3479M
+Investors-prosp\CDC,56M
+Investors-prosp\findev,163M
+Investors\afdb,247M
+Investors\alkhaliji,77M
+Investors\arise,60M
+Investors\CEB,383M
+Investors\DB\TMFG,116M
+Investors\eurobond,72M
+Investors\finnfund,112M
+**Investors\FMO\covenants,388M
+Investors\FMO\OeEB,85M
+Investors\FMO\subloans\ENG,56M
+Investors\IFC\RSF,73M
+Investors\PIC,183M
+Investors\PIC\DB/PIC conv,81M
+Investors\Proparco,246M
+LIBOR transition,93M
+Ratings\Double leverage,88M
+Fitch,90M
+Moodys,83M
+S&P,151M
+
+News & Research,,115090
+Research,82M
+
+Planning,,998570
+Budgeting,350M
+Capital,91M
+Finance,110M
+Strategy&GEC\Digital&Payments,61M
+Strategy&GEC\ROIC,99M
+
+Reporting,,1878178
+2020 12,229M
+2020 12\audit confirmations,86M
+Reporting\Archive\2014-2018
+...
+
+Training,,111099
